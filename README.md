@@ -24,6 +24,7 @@ Grove端子をM5Stack等に接続し、給電したい機器をUSB-Aコネクタ
 ## 使い方（オプション）
 
 給電のためのUSB-Aプラグ、またはUSB-Cコネクタを追加でとりつけ、そちらから給電することができます。
+これらを使う場合は、JP1をカット（初期状態はショート）することで、Grove端子からの+5V給電を切ることができます。
 
 - USB-Aプラグ: [秋月電子・USB-4AM103AS](https://akizukidenshi.com/catalog/g/g102236/)等
 - USB-Cコネクタ: [秋月電子・UJC-HP-3-SMT-TR](https://akizukidenshi.com/catalog/g/g116438/)等＋5.1kΩチップ抵抗(0603/1608)x2個
