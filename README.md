@@ -8,7 +8,7 @@ Grove端子から電源(+5V)をUSB-Aコネクタ（ソケット）への給電�
 
 Grove端子をM5Stack等に接続し、給電したい機器をUSB-Aコネクタに接続します。Grove端子の信号線（初期状態では"A"(2番)）を"L"にすると給電され、"H"（または開放）にすると給電されません。
 
-給電したい機器への電力はGrove端子から受けますので、供給側の電力供給が不足する場合は、[「M5Stack USB TypeC2Grove外部電源供給ユニット」(https://www.switch-science.com/products/8453)等をつかって電源を強化してください。
+給電したい機器への電力はGrove端子から受けますので、供給側の電力供給が不足する場合は、[「M5Stack USB TypeC2Grove外部電源供給ユニット」](https://www.switch-science.com/products/8453)等をつかって電源を強化してください。
 
 
 ## 設定の変更
